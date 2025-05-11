@@ -10,7 +10,7 @@
 1. **Điền ID tài khoản của bạn**  
    Mở file `test.py`, sửa dòng sau thành ID của bạn:
    ```python
-   ur_id = "nhl08.eco@gmail.com" #Nhập id của bạn ở đây
+   ur_id = "user123@example.com" #Nhập id của bạn ở đây
    ```
 
 2. **Thêm các gift code**  
