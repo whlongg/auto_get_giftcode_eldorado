@@ -14,8 +14,12 @@
    ```
 
 2. **Thêm các gift code**  
-   Thêm các gift code (mỗi code một dòng) vào file `code.txt`.
-
+   Thêm các gift code (mỗi code một dòng) vào file `code.txt`, nó có thể trông như thế này:
+   ```
+   000011112222
+   111100002222
+   312373849812
+   ```
 3. **Chạy script**  
    Mở terminal/cmd tại thư mục chứa file và chạy:
    ```
